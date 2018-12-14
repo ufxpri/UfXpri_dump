@@ -1,0 +1,9 @@
+﻿  Moc'ing QtGuiApplication1.h...
+  Rcc'ing QtGuiApplication1.qrc...
+  Uic'ing QtGuiApplication1.ui...
+  RCC: Warning: No resources in 'C:\Users\UfXpri\source\repos\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.qrc'.
+  main.cpp
+  QtGuiApplication1.cpp
+  moc_QtGuiApplication1.cpp
+  qrc_QtGuiApplication1.cpp
+  QtGuiApplication1.vcxproj -> C:\Users\UfXpri\source\repos\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe
