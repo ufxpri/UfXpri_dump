@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>menu</title>
+    <style>
+      body{
+        -webkit-app-region: drag;
+        background-color: white;
+        overflow: hidden;
+      }
+      img{
+          margin: auto;
+      }
+      img:hover{
+          opacity: 0.5;
+          filter: alpha(opacity=50);
+      }
+    </style>
+    <script>
+        edit = document.getElementById('edit')
+        edit.onclick = function(){
+            window.location.href = './edit.html'
+        }
+    </script>
+  </head>
+  <body>
+    <img id='edit' src='../src/edit.png'/>
+    <img id='async' src='../src/async.png'/>
+    <img id='history' src='../src/history.png'/>
+  </body>
+</html>
